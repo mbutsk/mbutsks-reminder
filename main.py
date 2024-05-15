@@ -8,9 +8,9 @@ from aiogram.methods.delete_webhook import DeleteWebhook
 from aiogram.utils.markdown import hlink
 from aiogram.client.bot import DefaultBotProperties
 from plyer import notification
+from config import *
 
 # Initialize Bot instance with a default parse mode which will be passed to all API calls
-TOKEN="6630134910:AAEy_kpR6JZoH1XZd0PcAE7KcY6lW_DAERg"
 bot = Bot(TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
 router = Router()
@@ -25,7 +25,7 @@ async def remind(message: types.Message):
         await message.reply(f'You should have received a reminder with the message "{message.text}"')
     else:
         await message.reply(f'The message "{message.text}" has not arrived. You do not have permission to send reminders to this user.'
-                            f'{hlink("Get mbutsk's reminder to yourself")}')
+                            f'{hlink("Get mbutsk's reminder to yourself", "https://github.com/mbutskpy/mbutsks-reminder")}')
 
 async def main() -> None:
     await bot(DeleteWebhook(drop_pending_updates=False))
