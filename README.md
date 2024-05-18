@@ -6,7 +6,7 @@
 ## Как добавить этого бота себе?
 * Клонируйте репозиторий
 * Пропишите в консоль `pip install -r requirements.txt`
-* Зайдите в оффициальный бот Telegram [BotFather](https://t.me/BotFather). Отправьте ему команду /newbot и по инструкции от него создайте бота.
+* Зайдите в оффициальный бот Telegram [BotFather](https://t.me/BotFather). Отправьте ему команду `/newbot` и по инструкции от него создайте бота.
 * Скопируйте API ключ, который BotFather отправил Вам.
 * Через команду /mybots по желанию можно изменить бота
 * Создайте файл config.py
@@ -36,7 +36,7 @@ It will send you a push notification when you switch it on
 ## How do I add this bot to myself?
 * Clone the repository
 * Write `pip install -r requirements.txt` into the terminal
-* Go to the official Telegram bot [BotFather](https://t.me/BotFather). Send him the command /newbot and follow his instructions to create a bot.
+* Go to the official Telegram bot [BotFather](https://t.me/BotFather). Send him the command /`newbot `and follow his instructions to create a bot.
 * Copy the API key that BotFather sent you.
 * Through the /mybots command, you can change the bot at will
 * Create a config.py file
