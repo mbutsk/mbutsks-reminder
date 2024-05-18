@@ -19,7 +19,7 @@
 
 > [!WARNING]
 > Оставьте флаги `--windowed`, `--onefile` и `--hidden-import plyer.platforms.win.notification` в pyinstaller, либо для auto-py-to-exe нажмите кнопки `One file` и `Window Based`, также напишите `plyer.platforms.win.notification в pyinstaller` в `Advanced-"hiden-import"`. Это надо для правильной работы приложения. 
-> Система Windows думает, что все приложения без консоли - вирусы. На момент скачивания программы выключите Windows Defender. Если Вы мне не доверяете, можете не выключать Windows Defender, но не ставьте флаг `--windowed` в pyinstaller, либо нажмите `Console Based` в auto-py-to exe, однако живите с этой проклятой консолькой. Выбор за Вами
+> Система Windows думает, что все приложения без консоли - вирусы. На момент скачивания программы выключите Windows Defender. Если Вы мне не доверяете, можете не выключать Windows Defender, но не ставьте флаг `--windowed` в pyinstaller, либо нажмите `Console Based` в auto-py-to exe, однако живите с этой проклятой консолькой :trollface: . Выбор за Вами
 
 ## Как пользоваться ботом?
 * Напишите боту сообщение, которое он должен будет Вам отправить в качестве push-уведомления при включении компьютера
