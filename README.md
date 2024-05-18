@@ -19,7 +19,7 @@
 
 > [!WARNING]
 > Оставьте флаги `--windowed`, `--onefile` и `--hidden-import plyer.platforms.win.notification` в pyinstaller, либо для auto-py-to-exe нажмите кнопки `One file` и `Window Based`, также напишите `plyer.platforms.win.notification в pyinstaller` в `Advanced-"hiden-import"`. Это надо для правильной работы приложения. 
-> Система Windows думает, что все приложения без консоли - вирусы. На момент скачивания программы выключите Windows Defender. Если Вы мне не доверяете, можете не выключать Windows Defender, но не ставьте флаг `--windowed` в pyinstaller, либо нажмите `Console Based` в auto-py-to exe, однако живите с этой проклятой консолькой. Выбор за Вами
+> Система Windows думает, что все приложения без консоли - вирусы. На момент скачивания программы выключите Windows Defender. Если Вы мне не доверяете, можете не выключать Windows Defender, но не ставьте флаг `--windowed` в pyinstaller, либо нажмите `Console Based` в auto-py-to exe, однако живите с этой проклятой консолькой :trollface: . Выбор за Вами
 
 ## Как пользоваться ботом?
 * Напишите боту сообщение, которое он должен будет Вам отправить в качестве push-уведомления при включении компьютера
@@ -49,7 +49,7 @@ It will send you a push notification when you switch it on
 
 > [!WARNING]
 > Leave the flags `--windowed`, `--onefile` and `--hidden-import plyer.platforms.win.notification` in pyinstaller, or for auto-py-to-exe, click the buttons `One file` и `Window Based`, also write `plyer.platforms.win.notification в pyinstaller` in `Advanced-"hiden-import"`. This is necessary for the application to work properly.
-> The Windows system thinks that all applications without a console are viruses. Switch off Windows Defender at the time of downloading the programme. If you don't trust me, you can keep Windows Defender switched off, but don't tick the flag `--windowed` in pyinstaller, or press `Console Based` in auto-py-to exe, but live with the damn console. The choice is yours
+> The Windows system thinks that all applications without a console are viruses. Switch off Windows Defender at the time of downloading the programme. If you don't trust me, you can keep Windows Defender switched off, but don't tick the flag `--windowed` in pyinstaller, or press `Console Based` in auto-py-to exe, but live with the damn console :trollface: . The choice is yours
 
 ## How to use the bot?
 * Write a message for the bot to send you as a push notification when you turn on your computer
