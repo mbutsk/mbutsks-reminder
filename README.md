@@ -1,4 +1,7 @@
 # RU
+> [!CAUTION]
+> Защищено [MIT лиценизей](https://github.com/mbutskpy/mbutsks-reminder/blob/main/LICENSE)
+
 ## Что делает этот бот?
 Если у Вас бывает такое, что Вы захотели что-то сделать, но не можете подойти к компьютеру, а когда можете, забываете, то этот бот для Вас.
 Он пришлет Вам push-уведомление при включении
@@ -29,6 +32,9 @@
 
 
 # EN
+> [!CAUTION]
+> Protected by [MIT licence]((https://github.com/mbutskpy/mbutsks-reminder/blob/main/LICENSE)
+
 ## What does this bot do?
 If you have a situation where you want to do something but can't get to your computer, and when you can, you forget, then this bot is for you.
 It will send you a push notification when you switch it on
