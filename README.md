@@ -33,7 +33,7 @@
 
 # EN
 > [!CAUTION]
-> Protected by [MIT licence]((https://github.com/mbutskpy/mbutsks-reminder/blob/main/LICENSE)
+> Protected by [MIT licence](https://github.com/mbutskpy/mbutsks-reminder/blob/main/LICENSE)
 
 ## What does this bot do?
 If you have a situation where you want to do something but can't get to your computer, and when you can, you forget, then this bot is for you.
